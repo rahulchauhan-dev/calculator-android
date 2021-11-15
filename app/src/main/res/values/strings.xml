@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">CalcIt</string>
+    <string name="seven">7</string>
+    <string name="six">6</string>
+    <string name="one">1</string>
+    <string name="five">5</string>
+    <string name="two">2</string>
+    <string name="nine">9</string>
+    <string name="eight">8</string>
+    <string name="add">+</string>
+    <string name="sub">−</string>
+    <string name="mul">×</string>
+    <string name="div">÷</string>
+    <string name="dot">·</string>
+    <string name="zero">0</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="equal">=</string>
+    <string name="sci">sci</string>
+    <string name="clr">C</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="log">log</string>
+    <string name="leftbt">(</string>
+    <string name="rightbt">)</string>
+    <string name="root">√</string>
+    <string name="fact">!</string>
+    <string name="simple">S</string>
+
+    <string name="cot">cot</string>
+    <string name="cosec">cosec</string>
+    <string name="sec">sec</string>
+    <string name="ln">ln</string>
+
+    <string name="exp">exp</string>
+    <string name="pi">π</string>
+    <string name="abs">|x|</string>
+    <string name="xsq">x²</string>
+    <string name="com">‚</string>
+
+
+    <string name="gcd">gcd</string>
+    <string name="lcm">lcm</string>
+    <string name="ispr"><upper>P</upper>r</string>
+    <string name="xpy">x<sup><small>y</small></sup></string>
+
+
+
+
+    <string name="backspace" />
+    <string name="ui">Ui.</string>
+    <string name="default1">Default</string>
+    <string name="king_yna">KingYna</string>
+    <string name="sky">Sky</string>
+    <string name="gradegrey">GradeGrey</string>
+    <string name="megatron">MegaTron</string>
+    <string name="purelust">PureLust</string>
+    <string name="delicate">Delicate</string>
+    <string name="sel">Sel</string>
+
+
+
+
+
+</resources>
